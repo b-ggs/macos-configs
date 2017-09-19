@@ -12,6 +12,10 @@ Telegram for macOS
 
 https://macos.telegram.org/
 
+Goofy for Messenger
+
+http://www.goofyapp.com/
+
 Slack
 
 https://slack.com/downloads/osx
