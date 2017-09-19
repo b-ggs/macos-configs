@@ -18,6 +18,8 @@ I like to have my dock arranged the same way over my Hackintosh X220 and work Ma
 
 * Safari
 
+* Messages
+
 * Telegram for macOS
 
 * Goofy
