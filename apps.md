@@ -80,3 +80,7 @@ https://transmissionbt.com/download/
 VLC
 
 https://www.videolan.org/vlc/download-macosx.html
+
+DisableMonitor
+
+https://github.com/Eun/DisableMonitor
