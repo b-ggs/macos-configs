@@ -42,4 +42,4 @@ I like to have my dock arranged the same way over my Hackintosh X220 and work Ma
 
 * VLC
 
-[dock]:
+[dock]: https://github.com/b-ggs/macos-configs/blob/master/_assets/dock.png
