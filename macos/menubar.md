@@ -22,6 +22,8 @@ Because some of the menubar items have inconsistent spacing or the icons have un
 
 * IO usage (iStat menus)
 
+* RAM usage (iStat menus)
+
 * Network usage (iStat menus)
 
 * Network
