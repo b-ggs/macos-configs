@@ -12,6 +12,8 @@ Because some of the menubar items have inconsistent spacing or the icons have un
 
 * Scroll Reverser
 
+* Amphetamine
+
 * Karabiner-Elements
 
 * TeamViewer (monochrome icon)
