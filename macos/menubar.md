@@ -38,4 +38,4 @@ Because some of the menubar items have inconsistent spacing or the icons have un
 
 * Notification Center
 
-[menubar]:
+[menubar]: https://github.com/b-ggs/macos-configs/blob/master/_assets/menubar.png
