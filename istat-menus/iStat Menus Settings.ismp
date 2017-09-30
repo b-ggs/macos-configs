@@ -3,30 +3,87 @@
 <plist version="1.0">
 <dict>
 	<key>build</key>
-	<real>705</real>
+	<real>898</real>
 	<key>preferences</key>
 	<dict>
-		<key>Battery_MebubarModeCharged</key>
-		<string>2,0</string>
 		<key>Battery_MenubarCustomizeStates</key>
 		<integer>1</integer>
 		<key>Battery_MenubarMode</key>
-		<string>2,0,1</string>
-		<key>Battery_MenubarModeCharging</key>
-		<string>2,0,1</string>
-		<key>Battery_MenubarModeDraining</key>
-		<string>2,0,1</string>
-		<key>Battery_Notifications</key>
 		<array>
 			<dict>
-				<key>level</key>
-				<integer>20</integer>
-				<key>style</key>
-				<integer>0</integer>
-				<key>type</key>
-				<integer>0</integer>
+				<key>key</key>
+				<string>2</string>
 				<key>uuid</key>
-				<string>D0E0C6D2-8887-4B2E-88B2-C75625C03F65</string>
+				<string>9D268DD7-014B-4EAC-9817-E5FA962BE85E</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>0</string>
+				<key>uuid</key>
+				<string>07A005F8-6C72-4637-813F-098A84849985</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>1</string>
+				<key>uuid</key>
+				<string>11D8B155-63E9-436E-81DC-5DEFB24E607D</string>
+			</dict>
+		</array>
+		<key>Battery_MenubarModeCharged</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>2</string>
+				<key>uuid</key>
+				<string>287A5EB9-CCCF-4E95-B9B5-D28A80075DF5</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>0</string>
+				<key>uuid</key>
+				<string>BFAA2E1D-1668-4044-85FB-2618A2F486A9</string>
+			</dict>
+		</array>
+		<key>Battery_MenubarModeCharging</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>2</string>
+				<key>uuid</key>
+				<string>D411CB34-E25B-4722-9DC2-12DC6632C17D</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>0</string>
+				<key>uuid</key>
+				<string>28C198CE-B295-48BD-92AD-D78B0EA2626E</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>1</string>
+				<key>uuid</key>
+				<string>F0E3FF1C-5024-490A-98ED-5C1D25634017</string>
+			</dict>
+		</array>
+		<key>Battery_MenubarModeDraining</key>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>2</string>
+				<key>uuid</key>
+				<string>2CF4568D-9B05-4D83-B6B3-C0EF165A8D16</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>0</string>
+				<key>uuid</key>
+				<string>1C012FFD-F701-4428-8821-7978F70FDEF0</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>1</string>
+				<key>uuid</key>
+				<string>3C0AD832-B8EF-490F-8AF6-815EDEF02300</string>
 			</dict>
 		</array>
 		<key>CPU_MenubarGraphCustomColors</key>
@@ -36,58 +93,223 @@
 		<key>CPU_MenubarGroupItems</key>
 		<integer>0</integer>
 		<key>CPU_MenubarMode</key>
-		<string>3</string>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>3</string>
+				<key>uuid</key>
+				<string>8DA2EC46-D537-4D7A-92F4-91BB3DF10D17</string>
+			</dict>
+		</array>
 		<key>CombinedDropdownDisplayMode</key>
-		<string></string>
+		<array>
+			<dict>
+				<key>key</key>
+				<string></string>
+				<key>uuid</key>
+				<string>520BE4BF-62F8-4FDB-81EF-C12DD4FDAEF7</string>
+			</dict>
+		</array>
 		<key>CombinedMenubarDisplayMode</key>
-		<string>1,2,4,6,7</string>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>1</string>
+				<key>uuid</key>
+				<string>833E65E2-B5EE-4380-ABE3-A3256D7B2CD0</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>2</string>
+				<key>uuid</key>
+				<string>05F59630-DC18-4AAD-8256-EABFBE031158</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>4</string>
+				<key>uuid</key>
+				<string>DBF10BE3-5528-4F3C-BE4B-D26BEE79AB5D</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>6</string>
+				<key>uuid</key>
+				<string>866C34A6-086D-45FE-966A-28ED06CE2790</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>7</string>
+				<key>uuid</key>
+				<string>F6775B42-F72E-4BCD-811B-8AD182AED215</string>
+			</dict>
+		</array>
 		<key>Diagnostics_Enabled</key>
 		<integer>0</integer>
+		<key>Disks_MenubarItems</key>
+		<array>
+			<dict>
+				<key>boot</key>
+				<true/>
+				<key>key</key>
+				<string>94E7BFD7-BEE6-3F5A-AE03-5CEB89780873</string>
+				<key>name</key>
+				<string>Macintosh HD</string>
+			</dict>
+		</array>
 		<key>Disks_MenubarMode</key>
-		<string>9</string>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>9</string>
+				<key>uuid</key>
+				<string>06D4B5C6-42F5-4C2C-A8B2-733AC7E50BAC</string>
+			</dict>
+		</array>
+		<key>FanControl_Sets</key>
+		<array>
+			<dict>
+				<key>model</key>
+				<string>MacBookPro12,1</string>
+				<key>name</key>
+				<string>Medium</string>
+				<key>speeds</key>
+				<array>
+					<dict>
+						<key>fan</key>
+						<string>F0Ac</string>
+						<key>high</key>
+						<integer>6199</integer>
+						<key>low</key>
+						<integer>1299</integer>
+						<key>percentage</key>
+						<real>0.5</real>
+						<key>speed</key>
+						<integer>3749</integer>
+					</dict>
+				</array>
+				<key>uuid</key>
+				<string>03E0F7AF-D258-4219-BA59-19B2F5A05034</string>
+			</dict>
+			<dict>
+				<key>model</key>
+				<string>MacBookPro12,1</string>
+				<key>name</key>
+				<string>High</string>
+				<key>speeds</key>
+				<array>
+					<dict>
+						<key>fan</key>
+						<string>F0Ac</string>
+						<key>high</key>
+						<integer>6199</integer>
+						<key>low</key>
+						<integer>1299</integer>
+						<key>percentage</key>
+						<real>1</real>
+						<key>speed</key>
+						<integer>6199</integer>
+					</dict>
+				</array>
+				<key>uuid</key>
+				<string>FFC59278-747B-46F7-8517-AC0D84E642BA</string>
+			</dict>
+		</array>
 		<key>Memory_MenubarMode</key>
-		<string>3</string>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>3</string>
+				<key>uuid</key>
+				<string>8C36DD1E-F545-4325-A7F5-6C0082E2DE6C</string>
+			</dict>
+		</array>
 		<key>MenubarSkinColor</key>
 		<integer>8</integer>
 		<key>MenubarSkinColor-Dark</key>
-		<integer>0</integer>
+		<integer>8</integer>
 		<key>MenubarSkinColor-Light</key>
-		<integer>0</integer>
+		<integer>8</integer>
 		<key>MenubarTheme</key>
 		<integer>1</integer>
+		<key>MigratedExtras_5.0</key>
+		<true/>
+		<key>MigratedExtras_5.1</key>
+		<true/>
+		<key>MigratedExtras_5.11</key>
+		<true/>
+		<key>Migrated_6.0</key>
+		<true/>
 		<key>Network_MenubarMode</key>
-		<string>100,0</string>
+		<array>
+			<dict>
+				<key>key</key>
+				<string>100</string>
+				<key>uuid</key>
+				<string>BA5FC4C5-C6E7-431C-BA35-462753BFAB38</string>
+			</dict>
+			<dict>
+				<key>key</key>
+				<string>0</string>
+				<key>uuid</key>
+				<string>27BBC995-A5D9-4392-BEE5-F418C32D1C69</string>
+			</dict>
+		</array>
+		<key>Notifications-Items</key>
+		<array>
+			<dict>
+				<key>enabled</key>
+				<true/>
+				<key>notification-type</key>
+				<string>1</string>
+				<key>rule-type</key>
+				<string>20</string>
+				<key>uuid</key>
+				<string>C3270A4E-6D2A-440D-9BC1-B24BEBE97BDD</string>
+				<key>value</key>
+				<string>20.00</string>
+			</dict>
+		</array>
 		<key>Sensors-Limits-Updated</key>
 		<true/>
 		<key>StatusItems-Order</key>
 		<array>
-			<integer>3</integer>
-			<integer>1</integer>
-			<integer>7</integer>
 			<integer>6</integer>
+			<integer>7</integer>
 			<integer>4</integer>
 			<integer>2</integer>
+			<integer>1</integer>
+			<integer>3</integer>
 		</array>
 		<key>Theme-SeperateStyles</key>
 		<integer>0</integer>
 		<key>Time_Cities</key>
-		<array/>
+		<array>
+			<string>-6</string>
+			<string>-7</string>
+		</array>
 		<key>Time_DropdownShowMoon</key>
 		<integer>0</integer>
 		<key>Time_MenubarFormat</key>
 		<array>
-			<string>EE</string>
-			<string>' '</string>
-			<string>h</string>
-			<string>':'</string>
-			<string>mm</string>
-			<string>' '</string>
-			<string>a</string>
+			<dict>
+				<key>format</key>
+				<array>
+					<array>
+						<string>EE</string>
+						<string>' '</string>
+						<string>h</string>
+						<string>':'</string>
+						<string>mm</string>
+						<string>' '</string>
+						<string>a</string>
+					</array>
+				</array>
+			</dict>
 		</array>
 		<key>Time_TextSize</key>
 		<integer>14</integer>
 	</dict>
 	<key>version</key>
-	<real>5.309999942779541</real>
+	<real>6</real>
 </dict>
 </plist>
