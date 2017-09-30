@@ -36,8 +36,6 @@ Because some of the menubar items have inconsistent spacing or the icons have un
 
 * Date (iStat menus)
 
-* Siri
-
 * Spotlight
 
 * Notification Center
