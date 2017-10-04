@@ -84,3 +84,7 @@ https://www.videolan.org/vlc/download-macosx.html
 DisableMonitor
 
 https://github.com/Eun/DisableMonitor
+
+Smart Scroll (for scrolling with ThinkPad X220's TrackPoint)
+
+https://marcmoini.com/SmartScroll.dmg
