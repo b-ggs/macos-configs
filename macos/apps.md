@@ -85,6 +85,10 @@ DisableMonitor
 
 https://github.com/Eun/DisableMonitor
 
+Keka
+
+http://www.kekaosx.com/en/
+
 Smart Scroll (for scrolling with ThinkPad X220's TrackPoint)
 
 https://marcmoini.com/SmartScroll.dmg
