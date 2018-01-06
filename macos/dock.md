@@ -12,7 +12,7 @@ I like to have my dock arranged the same way over my Hackintosh X220 and work Ma
 
 * Mission Control
 
-* Terminal
+* iTerm
 
 * Google Chrome
 
@@ -39,6 +39,8 @@ I like to have my dock arranged the same way over my Hackintosh X220 and work Ma
 * Transmission
 
 * Steam
+
+* Discord
 
 * VLC
 
